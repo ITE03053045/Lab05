@@ -1,4 +1,4 @@
 all:socket.c
-	g++ socket.c -o socket
+	g++ tomato.c -o tomato
 clean:
-	rm -f socket
+	rm -f tomato
